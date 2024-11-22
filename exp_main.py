@@ -1,4 +1,4 @@
-# Web scraping project for Nico QFS Pitch
+# Web scraping project for Nico Stock Pitch
 # Written by: Drake Adams
 # 2/7/2024
 # Sources:
