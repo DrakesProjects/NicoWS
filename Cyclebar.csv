@@ -1,0 +1,263 @@
+Name,Address,Status,Classes_This_Week,4Rides,8Rides,Unlimited Rides,5Pack,10Pack,24Pack
+CycleBar Flatiron,"39 W 21st Street, New York, NY, 10010",Open,33,$129.00,$229.00,$279.00,$179.00,$349.00,$10.00
+CycleBar NoHo,"51 Astor Place, New York, NY, 10003",Open,38,$129.00,$229.00,$279.00,$179.00,$349.00,$10.00
+CycleBar NoMad,"420 Park Ave S, New York, NY, 10016",Open,31,$129.00,$229.00,$279.00,$179.00,$349.00,$10.00
+CycleBar Williamsburg,"173 N 3rd St., Brooklyn, NY, 11211",Open,35,$129.00,$229.00,$279.00,$179.00,$349.00,$10.00
+CycleBar UES 67th,"201 E 67th St., 3rd Floor, New York, NY, 10065",Open,37,$129.00,$229.00,$279.00,$179.00,$349.00,$10.00
+CycleBar Hoboken,"720 Monroe Street, Suite C301, Hoboken, NJ, 07030",Open,34,$109.00,$159.00,$199.00,$289.00,$149.00,$559.00
+CycleBar Jersey City,"65 Bay Street, Jersey City, NJ, 07302",Open,34,$109.00,$159.00,$199.00,$289.00,$149.00,$559.00
+CycleBar Fort Lee,"2012 Hudson Street, Unit 12A, Fort Lee, NJ, 07024",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Montclair,"656 Bloomfield Avenue, Montclair, NJ, 07042",Open,29,$99.00,$149.00,$189.00,$269.00,$139.00,$499.00
+CycleBar Manhasset,"1500 Northern Blvd., Manhasset, NY, 11030",coming soon,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Millburn,"351 Millburn Ave., Millburn, NJ, 07041",Open,26,$99.00,$149.00,$189.00,$269.00,$139.00,$499.00
+CycleBar Garden City,"950 Franklin Avenue, Suite 100, Garden City, NY, 11530",Open,37,$109.00,$159.00,$199.00,$289.00,$149.00,$559.00
+CycleBar Livingston,"277 Eisenhower Parkway, Suite 2, Livingston, NJ, 07039",Open,21,$99.00,$149.00,$189.00,$269.00,$139.00,$499.00
+CycleBar Wyckoff,"327 Franklin Avenue, Suite 7, Wyckoff, NJ, 07481",Open,33,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Montvale,"28 Farm View, Montvale, NJ, 07645",Open,37,$59.00,$109.00,$149.00,$189.00,$99.00,$349.00
+CycleBar Bernardsville,"80 Morristown Road, Unit 25, Bernardsville, NJ, 07924",Open,22,$59.00,$109.00,$149.00,$189.00,$99.00,$349.00
+CycleBar Huntington,"839 New York Avenue, A, Huntington, NY, 11743",Open,34,$109.00,$159.00,$199.00,$289.00,$289.00,$149.00
+CycleBar Stamford,"1010 High Ridge Rd., Stamford, CT, 06905",Open,30,$109.00,$159.00,$199.00,$289.00,$149.00,$559.00
+CycleBar Sayville,"161 Montauk Highway, Sayville, NY, 11782",coming soon,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Monroe,"535 Monroe Turnpike Century Plaza, Monroe, CT, 06468",Open,23,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Abington,"1475 Old York Road, Abington, PA, 19001",Open,25,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar North Wales,"1460 Bethlehem Pike, North Wales, PA, 19454",Open,28,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Center City,"1521 Locust St., Philadelphia, PA, 19102",Open,39,$119.00,$169.00,$209.00,$179.00,$349.00,$10.00
+CycleBar Collegeville,"222 East Main Street, Suite #009, Collegeville, PA, 19426",Open,27,$69.00,$119.00,$159.00,$209.00,$249.00,$109.00
+CycleBar Canton,"110 Albany Turnpike, Suite 611-B, Canton, CT, 06019",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar West Hartford,"55 Memorial Road, West Hartford, CT, 06107",Open,30,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Exton,"124 Woodcutter Street, Exton, PA, 19341",Open,23,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar West Chester,"1357 Dilworthtown Crossing, West Chester, PA, 19382",Open,22,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Waterford,"903 Hartford Turnpike, #28, Waterford, CT, 06385",Open,22,$99.00,$149.00,$189.00,$269.00,$139.00,$499.00
+CycleBar Smithfield,"371 Putnam Pike, Suite 310, Smithfield, RI, 02917",Open,23,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Providence,"23 Providence Place, Providence, RI, 02903",Open,25,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Milford,"128 Medway Road, Suite 4, Milford, MA, 01757",Open,28,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Maynard,"15 Digital Way, Suite 26 Maynard Crossing, Maynard, MA, 01754",Open,23,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Assembly Row,"387 Revolution Drive, Somerville, MA, 02145",Open,23,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Washington NoMa,"1105 Delaware Avenue NE, Washington, DC, 20002",Open,31,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Columbia Pike,"3400 Columbia Pike, Suite 100, Arlington, VA, 22204",Open,30,$99.00,$149.00,$189.00,$269.00,$139.00,$499.00
+CycleBar Alexandria,"2481 Mandeville Ln, Alexandria, VA, 22314",coming soon,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Falls Church,"301 West Broad Street, Falls Church, VA, 22046",Open,32,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Ashburn,"20020 Ashbrook Commons Plaza, #2119, Ashburn, VA, 20147",coming soon,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Portland,"82 Hanover Street, Suite 12, Portland, ME, 04101",Open,25,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar GreenGate,"301 Maltby Boulevard, Suite D, Richmond, VA, 23233",Open,37,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Hilltop,"1624 Laskin Road, Suite 752, Virginia Beach, VA, 23451",Open,29,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Norfolk,"Hampton Blvd W 25th Street, Norfolk, VA, 23508",coming soon,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Red Mill,"2217 Upton Drive, Suite 810, Virginia Beach, VA, 23454",Open,23,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Midlothian,"14310 Winterview Parkway, Suite 100, Midlothian, VA, 23113",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar North Hills,"6294 Northway Mall Drive, Pittsburgh, PA, 15237",Open,25,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Cranberry Township,"20430 Route 19, Suite 130, Cranberry Township, PA, 16066",Open,34,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Robinson,"1320 Park Manor Boulevard, Suite 201, Pittsburgh, PA, 15205",Open,27,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Leaside,"1866 Bayview Avenue, Suite 103, Toronto, ON, M4G 0C3",Open,28,$109.00,$159.00,$199.00,$149.00,$289.00,$559.00
+CycleBar Markham,"43 Main Street North, Markham, ON, L3P 1X3",coming soon,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Hudson,"99 First Street, Hudson, OH, 44236",Open,30,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Jackson Township,"7184 Fulton Drive NW, Canton, OH, 44718",Open,31,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Beachwood,"3355 Richmond Road, Suite 101A, Beachwood, OH, 44122",Open,25,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Crocker Park,"236 Market Street, Westlake, OH, 44145",Open,25,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Durham,"311 Liggett St., Durham, NC, 27701",coming soon,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Raleigh Midtown,"200 Park At North Hills Street, Suite 141, Raleigh, NC, 27609",Open,27,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Chapel Hill,"201 S. Estes Dr., Suite E1, Chapel Hill, NC, 27514",Open,31,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar West Cary,"5022 Arco Street, Cary, NC, 27519",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Greensboro,"2105 W. Cornwallis Dr., Ste. E, Greensboro, NC, 27408",Open,27,$79.00,$129.00,$169.00,$229.00,$119.00,$27.00
+CycleBar Winston-Salem,"400 West Fourth Street, Suite 120, Winston-Salem, NC, 27101",Open,26,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Easton,"4201 Weaverton Lane, Columbus, OH, 43219",Open,17,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Polaris,"661 Worthington Road, Westerville, OH, 43082",Open,26,$249.00,$10.00,$29.00,N/A,N/A,N/A
+CycleBar Fayetteville,"2735 Freedom Parkway Drive, Suite 1, Fayetteville, NC, 28314",Open,31,$59.00,$109.00,$149.00,$189.00,$99.00,$349.00
+CycleBar Upper Arlington,"1609 West Lane Avenue, Upper Arlington, OH, 43221",Open,32,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Powell,"4020 Powell Road, Powell, OH, 43065",Open,15,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Royal Oak,"413 N Main Street, Royal Oak, MI, 48067",Open,25,$59.00,$109.00,$149.00,$189.00,$99.00,$349.00
+CycleBar Troy,"315 E Big Beaver Road, Troy, MI, 48083",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Ford,"41847 Ford Road, Canton, MI, 48187",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Northville,"20085 Haggerty Road, Northville, MI, 48167",Open,41,$59.00,$109.00,$149.00,$189.00,$99.00,$349.00
+CycleBar Perrysburg,"10630 Fremont Pike, Perrysburg, OH, 43551",Open,20,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Lake Norman,"20601 Torrence Chapel Road, Suite 5A, Cornelius, NC, 28031",Open,28,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Matthews,"2309 Matthews Township Parkway, Suite 104, Matthews, NC, 28105",Open,22,$59.00,$109.00,$149.00,$189.00,$99.00,$349.00
+CycleBar Midtown Charlotte,"339 S Kings Drive, Charlotte, NC, 28204",Open,30,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar South Park,"4310 Sharon Road, Charlotte, NC, 28211",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Waverly,"7315 Waverly Walk Avenue, Suite F1-2, Charlotte, NC, 28277",Open,29,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Austin Landing,"3655 Rigby Road, Miamisburg, OH, 45342",Open,25,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Fort Mill,"2351 Len Patterson Road Suite 106, Fort Mill, SC, 29708",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Liberty Township,"7306 Yankee Road, Liberty Township, OH, 45044",Open,23,$79.00,$129.00,$169.00,$27.00,$0.00,$49.00
+CycleBar Kenwood,"5901 E. Galbraith Road, Suite 235, Kenwood, OH, 45236",Open,24,$249.00,$10.00,$29.00,N/A,N/A,N/A
+CycleBar Hyde Park,"2713 Edmondson Road, Cincinnati, OH, 45209",Open,44,$249.00,$10.00,$29.00,N/A,N/A,N/A
+CycleBar Spartanburg,"120 W Saint John Street, Spartanburg, SC, 29306",Open,27,$59.00,$89.00,$99.00,$79.00,$149.00,$29.00
+CycleBar Patchen Square,"2860 Richmond Road, Lexington, KY, 40509",Open,35,$249.00,$10.00,$29.00,N/A,N/A,N/A
+CycleBar Fritz Farm,"4049 Finn Way, Lexington, KY, 40517",Open,44,$249.00,$10.00,$29.00,N/A,N/A,N/A
+CycleBar Forest Acres,"4609 Forest Drive, Suite 4, Forest Acres, SC, 29206",Open,22,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Greenville,"307 East McBee Avenue, Suite B, Greenville, SC, 29601",Open,32,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Mount Pleasant,"1601 Palmetto Grande Drive, Suite I-7, Mt. Pleasant, SC, 29464",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Bearden,"5444 Homberg Drive, Knoxville, TN, 37919",Open,45,$249.00,$10.00,$29.00,N/A,N/A,N/A
+CycleBar Middletown Station,"12951 Shelbyville Road, Suite 101, Middletown, KY, 40243",Open,24,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar St. Matthews,"4600 Shelbyville Road, Louisville, KY, 40207",Open,25,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Traders Point,"6010 West 86th, Suite 130, Indianapolis, IN, 46278",Open,32,$69.00,$119.00,$159.00,$269.00,$79.00,$249.00
+CycleBar Evans,"4218 Washington Rd ,, Suite 6, Evans, GA, 30809",Open,32,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Hilton Head,"11 Palmetto Bay Road, Suite 106B, Hilton Head, SC, 29928",Open,29,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar River North,"720 North LaSalle Drive, Chicago, IL, 60654",Open,22,$109.00,$159.00,$199.00,$289.00,$149.00,$559.00
+CycleBar Fulton Market,"175 N Halsted Street, Chicago, IL, 60661",Open,20,$109.00,$159.00,$199.00,$289.00,$149.00,$559.00
+CycleBar Wilmette,"116 Skokie Blvd., Wilmette, IL, 60091",Open,28,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Midtown Savannah,"5525 Abercorn Street, Savannah, GA, 31405",Open,23,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Deerfield,"190 Waukegan Road, Deerfield, IL, 60015",Open,22,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Chatt,"2372 Lifestyle Way, Suite 162, Chattanooga, TN, 37421",Open,18,$59.00,$89.00,$99.00,$79.00,$149.00,$29.00
+CycleBar Yorktown Center,"362 Yorktown Center, Lombard, IL, 60148",Open,23,$59.00,$109.00,$149.00,$189.00,$99.00,$349.00
+CycleBar Mequon,"11104 N Port Washington Road, Mequon, WI, 53092",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Wheaton,"51 Danada Square E, Wheaton, IL, 60189",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Dunwoody,"4794 Ashford Dunwoody Road, Dunwoody, GA, 30338",Open,23,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar East Cobb,"4880 Lower Roswell Road, Suite 450, Marietta, GA, 30068",Open,23,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Buckhead,"3280 Peachtree Road NE, Suite 155, Atlanta, GA, 30305",Open,17,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar St. Charles,"2686 E. Main Street, St. Charles, IL, 60174",Open,25,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Evansville,"111 S Green River Road, Suite G, Evansville, IN, 47715",Open,24,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar The Gulch,"1004 Division Street, Nashville, TN, 37203",Open,21,$99.00,$149.00,$189.00,$269.00,$139.00,$499.00
+CycleBar Lake Country,"1370 Pabst Farms Circle, Suite 360, Oconomowoc, WI, 53066",Open,23,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar West Nash,"3820 Charlotte Avenue, Suite 111, Nashville, TN, 37209",Open,27,$99.00,$149.00,$189.00,$269.00,$139.00,$499.00
+CycleBar Maryland Farms,"205 Franklin Road, Suite 100, Brentwood, TN, 37027",Open,16,$59.00,$109.00,$149.00,$189.00,$269.00,$99.00
+CycleBar Franklin,"9040 Carothers Parkway, Suite A207, Franklin, TN, 37067",Open,24,$99.00,$149.00,$189.00,$269.00,$139.00,$499.00
+CycleBar Appleton,"3825 East Calumet Street Suite 100, Appleton, WI, 54915",Open,30,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Huntsville,"935 Bob Wallace Ave SW, Huntsville, AL, 35801",Open,16,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Riverside,"1035 Riverside Avenue, Jacksonville, FL, 32204",Open,25,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Gateway Village,"5010 Gate Parkway, Jacksonville, FL, 32256",Open,29,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar St Johns,"205 Bartram Market Dr, STE 160, St Johns, FL, 32259",Open,33,$89.00,$139.00,$179.00,$249.00,$249.00,$129.00
+CycleBar Richmond Heights,"8025 Dale Avenue, St. Louis, MO, 63117",Open,37,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Creve Coeur,"11625 Olive Boulevard, Creve Coeur, MO, 63141",Open,24,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Chesterfield,"1657 Clarkson Road, Chesterfield, MO, 63017",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Mid Rivers,"5292 N Service Road, Saint Peters, MO, 63376",Open,22,$59.00,$89.00,$99.00,$79.00,$149.00,$29.00
+CycleBar Gainesville,"3597 SW 32nd Court, Suite 40, Gainesville, FL, 32608",Open,18,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Tallahassee,"1413 Market St., Tallahassee, FL, 32312",Open,30,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Heathrow,"4700 International Parkway, Suite 1200, Sanford, FL, 32771",Open,24,N/A,N/A,N/A,$249.00,$129.00,$459.00
+CycleBar Oviedo,"1361 Alafaya Trail, Suite 100, Oviedo, FL, 32765",Open,28,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Lakeland,"3504 Lake District Dr. W, Suite 109, Lakeland, TN, 38002",Open,21,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Winter Park,"110 S Orlando Avenue, Suite 1, Winter Park, FL, 32789",Open,25,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Melbourne,"5410 Murrell Road, Suite 205, Rockledge, FL, 32955",Open,19,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Germantown,"7685 Farmington Boulevard, Suite 101, Germantown, TN, 38138",Open,18,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Dr Phillips,"7940 Via Dellagio Way, Suite 112, Orlando, FL, 32819",Open,23,$99.00,$149.00,$189.00,$269.00,$139.00,$499.00
+CycleBar Hamlin,"16016 New Independence Parkway, Suite 120, Winter Garden, FL, 34787",Open,27,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Midtown Memphis,"588 S Cooper Street, Memphis, TN, 38104",Open,19,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Columbia,"503 E. Nifong Blvd., Suite J, Columbia, MO, 65201",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Trinity,"8918 Strength Avenue, New Port Richey, FL, 34655",Open,24,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Woodbury,"265 Radio Drive, Suite E, Woodbury, MN, 55125",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Brandon,"3317 Lithia Pinecrest Road, Unit 3335, Valrico, FL, 33596",Open,17,$79.00,$129.00,$169.00,$229.00,$229.00,$119.00
+CycleBar South Tampa,"209 S Dale Mabry Highway, Tampa, FL, 33609",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Uptown MPLS,"2927 Girard Avenue S, Minneapolis, MN, 55408",Open,28,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Palm Beach Gardens,"4550 Donald Ross Road, Suite 100, Palm Beach Gardens, FL, 33418",Open,27,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Pensacola,"1765 E 9 Mile Road, Suite A03, Pensacola, FL, 32514",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Ridgedale,"12401 Wayzata Road, Suite 2085, Minnetonka, MN, 55305",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Jordan Creek,"160 Jordan Creek Parkway, Suite 130, West Des Moines, IA, 50266",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Wellington,"9312 Forest Hills Boulevard, Wellington, FL, 33414",Open,23,$69.00,$119.00,$159.00,$209.00,$189.00,$109.00
+CycleBar Sarasota University Town Center,"5275 University Parkway, University Park, FL, 34201",Open,28,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Siesta Key,"4020 South Tamiami Trail, Suite 4006, Sarasota, FL, 34321",coming soon,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Boca Raton,"5560 N Military Trail, Suite 320, Boca Raton, FL, 33496",Open,35,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Parkland,"7291 N State Road 7, Parkland, FL, 33067",coming soon,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Springfield East,"3330 S Glenstone Ave, Springfield, MO, 65804",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Fort Lauderdale,"525 N Federal Highway, Suite 100, Fort Lauderdale, FL, 33301",Open,32,$99.00,$149.00,$189.00,$269.00,$139.00,$499.00
+CycleBar Davie,"2270 S University Drive, Davie, FL, 33324",Open,22,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Hattiesburg,"4600 Hardy Street, Unit 20, Hattiesburg, MS, 39402",Open,17,$59.00,$89.00,$99.00,$79.00,$149.00,$29.00
+CycleBar South Fort Myers,"13499 S. Cleveland Ave., #233, Fort Myers, FL, 33907",Open,29,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Aventura,"2956 Aventura Boulevard, Suite 1, Aventura, FL, 33180",Open,27,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Pembroke Pines,"15657 Pines Boulevard, Pembroke Pines, FL, 33027",Open,22,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Rock City,"17711 Chenal Parkway, Suite I-111, Little Rock, AR, 72223",Open,11,$59.00,$89.00,$99.00,$269.00,$79.00,$29.00
+CycleBar Lee's Summit,"910-W NW Blue Pkwy, Lee's Summit, MO, 64086",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Naples,"9118 Strada Place, Suite 8105, Naples, FL, 34108",Open,33,$109.00,$159.00,$199.00,$289.00,$149.00,$559.00
+CycleBar Brookside,"314 W. 63rd St., Suite 314B, Kansas City, MO, 64113",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar West Kendall,"9075 SW 162nd Avenue, Suite 100, Miami, FL, 33196",Open,25,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Pinecrest,"13617 S Dixie Highway, Suite 122, Palmetto Bay, FL, 33176",Open,19,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar West Omaha,"17255 Davenport Street, Suite 135, Omaha, NE, 68118",Open,28,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar New Orleans Uptown,"3823 Magazine Street, New Orleans, LA, 70115",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Midtown Tulsa,"1515 E 15th Street, Tulsa, OK, 74120",Open,24,$59.00,$89.00,$99.00,$79.00,$149.00,$29.00
+CycleBar South Tulsa,"9110 S Yale Avenue, Suite B, Tulsa, OK, 74137",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Lafayette,"4243 Ambassador Caffery Parkway, Suite 113, Lafayette, LA, 70508",Open,15,$59.00,$89.00,$99.00,$79.00,$149.00,$29.00
+CycleBar Tyler,"5868 Old Jacksonville Hwy., Suite 200, Tyler, TX, 75703",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Chisholm Creek,"13220 Pawnee Drive, Suite B, Oklahoma City, OK, 73114",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Classen Curve,"5730 N Classen Boulevard, Suite 1 & 2, Oklahoma City, OK, 73118",Open,44,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Norman,"1942 24th Ave NW, Suite H-4, Norman, OK, 73069",Open,29,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar McKinney,"1871 N. Lakeforest Drive, Suite 100, McKinney, TX, 75071",Open,21,$59.00,$89.00,$99.00,$79.00,$149.00,$29.00
+CycleBar Rockwall,"2071 Summer Lee Drive, Suite R103, Rockwall, TX, 75032",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Allen,"111 Whistlestop Way, Fairview, TX, 75069",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Frisco,"12005 Dallas Parkway, Suite 200, Frisco, TX, 75033",Open,20,$59.00,$89.00,$99.00,$79.00,$149.00,$29.00
+CycleBar Preston Forest,"11700 Preston Road, Suite 625, Dallas, TX, 75230",Open,24,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Uptown Dallas,"2020 Cedar Springs, Suite 180, Dallas, TX, 75201",Open,33,$89.00,$139.00,$179.00,$249.00,$129.00,$79.00
+CycleBar North Fort Worth,"9595 Sage Meadow Trail, Fort Worth, TX, 76177",Open,33,$79.00,$129.00,$169.00,$27.00,$0.00,$49.00
+CycleBar Bismarck,"820 43rd Ave NE., Suite 112, Bismarck, ND, 58503",Open,18,$59.00,$109.00,$149.00,$189.00,$189.00,$99.00
+CycleBar Waterside,"5924 Convair Drive, Suite 440, Fort Worth, TX, 76109",Open,29,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Sawyer Heights,"2102 Edwards Street, Suite A, Houston, TX, 77007",Open,25,$89.00,$119.00,$139.00,$249.00,$249.00,$129.00
+CycleBar Houston Heights,"1533 N Shepherd Drive, Suite 210, Houston, TX, 77008",Open,24,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Pearland,"2701 Pearland Parkway, #150, Pearland, TX, 77581",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar West U,"3233 Southwest Freeway, Houston, TX, 77027",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Waco,"2324 Marketplace Drive, Suite 210, Waco, TX, 76711",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Sugar Land,"18802 University Blvd, Suite 113, Sugar Land, TX, 77479",Open,23,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Katy,"2717 Commercial Center Boulevard, Suite E190, Katy, TX, 77494",Open,25,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Cedar Park,"4701 183A Frontage Road, Suite E, Cedar Park, TX, 78613",Open,22,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar East Austin,"2400 E 6th St, Austin, TX, 78702",Open,23,$99.00,$149.00,$189.00,$269.00,$139.00,$499.00
+CycleBar West 5th,"507 Pressler Street, Suite 900, Austin, TX, 78703",Open,28,$99.00,$149.00,$189.00,$269.00,$139.00,$499.00
+CycleBar Bee Cave,"3620 RR 620 South, Suite 210, Bee Cave, TX, 78738",Open,23,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Kyle,"19230 IH 35, Suite 100, Kyle, TX, 78640",Open,25,$79.00,$129.00,$169.00,$229.00,$229.00,$119.00
+CycleBar New Braunfels,"2084 Central Plaza, New Braunfels, TX, 78130",Open,26,$59.00,$109.00,$149.00,$189.00,$99.00,$349.00
+CycleBar Stone Oak,"19239 Stone Oak Pkwy, Suite 111, San Antonio, TX, 78258",Open,23,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Lubbock,"7604 Milwaukee Avenue, Suite 700, Lubbock, TX, 79424",Open,31,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Southlands,"6300 S Main Street, Suite N-103, Aurora, CO, 80016",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Loveland,"5721 McWhinney Blvd, Suites A5733, Loveland, CO, 80538",Open,32,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Parker,"11280 S Twenty Mile Road, Suite 112, Parker, CO, 80134",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Fort Collins,"3300 S College Avenue, Suite 140, Fort Collins, CO, 80525",Open,30,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Orchard Park Place,"14215 Orchard Parkway, Suite 400, Westminster, CO, 80023",Open,23,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar DTC,"7600 Landmark Way, Suite A201, Greenwood Village, CO, 80111",Open,23,$79.00,$129.00,$169.00,$229.00,$10.00,$27.00
+CycleBar Lone Tree,"7824 Park Meadows Drive, Suite 150, Lone Tree, CO, 80124",Open,20,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Castle Pines,"562 Castle Pines Parkway, Units C1 & C2, Castle Rock, CO, 80108",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Longmont,"205 Ken Pratt Blvd, Ste 100, Longmont, CO, 80501",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar LoHi,"1230 W 38th Avenue, Denver, CO, 80211",Open,29,$79.00,$129.00,$169.00,$229.00,$10.00,$27.00
+CycleBar Union Station,"2025 17th Street, Suite 120, Denver, CO, 80202",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Louisville,"459 McCaslin Boulevard, Suite 6, Louisville, CO, 80027",Open,19,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Southwest Plaza,"8501 W Bowles Avenue, Suite 1100, Littleton, CO, 80123",Open,25,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Midland,"3415 N Loop 250 W, Suite 502, Midland, TX, 79707",Open,21,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Odessa,"6430 HWY 191, suite 130 & 150, Odessa, TX, 79762",coming soon,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Aspen,"535 E Hyman Avenue, Aspen, CO, 81611",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Albuquerque Heights,"9900 Montgomery Boulevard NE, Suite B, Albuquerque, NM, 87111",Open,21,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Bozeman,"2047 W Oak St,, Suite 101-B, Bozeman, MT, 59718",Open,32,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar El Paso West,"7470 Cimarron Market, El Paso, TX, 79911",Open,25,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Saratoga Springs,"24 Pioneer Crossing, Suite 100, Saratoga Springs, UT, 84045",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar South Jordan,"3561 W 11400 South, South Jordan, UT, 84095",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Windermere,"5242 Windermere Boulevard, Edmonton, AB, T6W 0L9",Open,24,$89.00,$139.00,$129.00,$249.00,$27.00,$29.00
+CycleBar St Albert,"130 - 140 Bellerose Drive, St Albert, AB, T8N 8N8",Open,24,$89.00,$139.00,$129.00,$249.00,$27.00,$29.00
+CycleBar Strathcona,"555 Strathcona Boulevard SW, Suite 136, Calgary, AB, T3H2Z9",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Flagstaff,"319 S Regent Street, Suite 206, Flagstaff, AZ, 86001",Open,23,$59.00,$109.00,$149.00,$189.00,$189.00,$99.00
+CycleBar East Mesa,"1534 S. Signal Butte, #101, Mesa, AZ, 85209",Open,30,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Gilbert,"2484 S Santan Village Parkway, Suite 103, Gilbert, AZ, 85295",Open,34,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Paradise Valley,"10633 N Tatum Boulevard, Phoenix, AZ, 85028",Open,30,$59.00,$109.00,$149.00,$189.00,$229.00,$99.00
+CycleBar Coeur d'Alene,"1430 West Appleway, Coeur d'Alene, ID, 83814",Open,23,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Village Meridian,"3690 E Monarch Sky Lane, Suite 120, Meridian, ID, 83646",Open,26,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar South Hill,"2525 E 29th Ave, Suite 02, Spokane, WA, 99223",Open,20,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Convention,"2019 Main Street, Eureka, NV, 89316",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Henderson,"2280 Paseo Verde Parkway, Suite 160, Henderson, NV, 89052",Open,34,$59.00,$109.00,$149.00,$189.00,$99.00,$349.00
+CycleBar Redlands,"455 W Stuart Ave, B100, Redlands, CA, 92373",Open,33,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Redmond Town Center,"7425 166th Avenue NE, Suite C250, Redmond, WA, 98052",Open,30,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Bend,"655 SW Powerhouse Drive, Suite 150, Bend, OR, 97702",Open,26,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar South Lake Union,"1288 Harrison Street, Seattle, WA, 98109",Open,33,$89.00,$139.00,$179.00,$249.00,$249.00,$129.00
+CycleBar Temecula,"26485 Ynez Road, Suite K, Temecula, CA, 92591",Open,21,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Rancho Cucamonga,"7210 Day Creek Blvd, Suite 117, Rancho Cucamonga, CA, 91739",Open,36,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar San Elijo Hills,"1646 San Elijo Road, Suite 101, San Marcos, CA, 92078",Open,23,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Scripps Ranch,"9860 Hibert St., Suite C3, San Diego, CA, 92131",Open,25,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Carmel Valley,"12720 Carmel Country Road, Suite 110, San Diego, CA, 92130",Open,22,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Hillcrest,"1040 University Avenue, Suite B213, San Diego, CA, 92103",Open,31,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar XSTUDIO,"17522 Von Karman Ave, Suite C, Irvine, CA, 92614",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Irvine UTC,"4237 Campus Dr, Suite B160, Irvine, CA, 92612",Open,35,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar West Vancouver,"1700 Main Street, Suite A, Vancouver, WA, 98660",Open,22,$69.00,$119.00,$159.00,$209.00,$109.00,$369.00
+CycleBar Overlook,"3450 N. Williams Ave, Portland, OR, 97227",coming soon,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Traffic Circle,"1847 Ximeno Ave., Long Beach, CA, 90815",Open,29,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Burbank,"3820 W Verdugo Ave, Suite A, Burbank, CA, 90515",Open,32,$99.00,$149.00,$199.00,$269.00,$139.00,$499.00
+CycleBar Clovis,"870 Herndon Avenue, Suite 102, Clovis, CA, 93612",Open,20,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Fresno,"8464 N Friant Road, Suite 108, Fresno, CA, 93720",Open,26,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Sherman Oaks,"14622 Ventura Blvd., 201, Sherman Oaks, CA, 91403",Open,30,$99.00,$149.00,$199.00,$269.00,$139.00,$499.00
+CycleBar Culver City,"4130 Sepulveda Boulevard, Unit C, Culver City, CA, 90230",Open,31,$99.00,$149.00,$199.00,$269.00,$269.00,$139.00
+CycleBar Torrance,"21207 Hawthorne Blvd, Torrance, CA, 90503",coming soon,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Manhattan Beach,"3160 N Sepulveda Blvd, Suite R-135, Manhattan Beach, CA, 90266",Open,29,$99.00,$149.00,$189.00,$269.00,$139.00,$499.00
+CycleBar Santa Monica,"1221 2nd Street, Suite 100, Santa Monica, CA, 90401",Open,21,$99.00,$149.00,$199.00,$269.00,$269.00,$139.00
+CycleBar Westlake Village,"960 South Westlake Boulevard, Suite 7, Westlake Village, CA, 91361",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Folsom,"360 Palladio Parkway, St. 405, Folsom, CA, 95630",Open,29,$79.00,$129.00,$169.00,$229.00,$249.00,$119.00
+CycleBar Roseville,"701 Pleasant Grove Boulevard, Suite 190, Rocklin, CA, 95678",Open,26,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Midtown Sacramento,"1708 15th Street, Sacramento, CA, 95811",Open,27,$79.00,$129.00,$169.00,$229.00,$119.00,$399.00
+CycleBar Santa Barbara,"5188 Hollister Ave., Santa Barbara, CA, 93111",coming soon,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Downtown San Jose,"130 Stockton Ave, Suite #130, San Jose, CA, 95126",Open,30,$99.00,$149.00,$189.00,$269.00,$139.00,$499.00
+CycleBar Castro Valley,"3331 Castro Valley Blvd, Castro Valley, CA, 94546",coming soon,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Los Gatos,"15525 Union Avenue, Los Gatos, CA, 95032",Open,27,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Sunnyvale,"331 W Washington Avenue, Sunnyvale, CA, 94086",Open,20,$109.00,$159.00,$199.00,$289.00,$149.00,$559.00
+CycleBar Westgate West,"5293A Prospect Road, San Jose, CA, 95129",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar Berkeley,"1929 University Avenue, Berkeley, CA, 94704",Open,30,$89.00,$139.00,$179.00,$249.00,$129.00,$459.00
+CycleBar Novato,"5800 Nave Drive, Suite J, Novato, CA, 94949",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CycleBar San Mateo,"56 31st Ave, San Mateo, CA, 94403",Open,23,$129.00,$199.00,$229.00,$169.00,$649.00,$35.00
+CycleBar Carmel Rancho,"26135 Carmel Rancho Boulevard, Carmel-by-the-Sea, CA, 93923",Closed,N/A,N/A,N/A,N/A,N/A,N/A,N/A
